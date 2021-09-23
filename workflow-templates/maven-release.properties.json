@@ -1,0 +1,11 @@
+{
+  "name": "Release with Maven",
+  "description": "Release a Java package with the maven-release-plugin.",
+  "iconName": "apache-icon",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "pom.xml"
+  ]
+}
