@@ -1,6 +1,6 @@
 {
   "name": "Release with Maven",
-  "description": "Release a Java package with the maven-release-plugin.",
+  "description": "Release a Java package using the `maven-release-plugin`.",
   "iconName": "apache-icon",
   "categories": [
     "Java"
